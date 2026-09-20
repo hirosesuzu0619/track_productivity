@@ -1,0 +1,14 @@
+{
+  "run_date": "2026-09-20",
+  "latest_quarter": "2026Q2",
+  "ulc_yoy": 1.40,
+  "prod_yoy": 2.24,
+  "comp_yoy": 3.67,
+  "out_yoy": 2.48,
+  "hrs_yoy": 0.23,
+  "verdict": "链条第三步断裂",
+  "productivity_driver": "output_driven",
+  "cycle_annualized_current": 2.06,
+  "cycle_annualized_previous": 1.52,
+  "cycle_gap_pp": 0.54
+}
